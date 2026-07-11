@@ -1,6 +1,6 @@
 # Hi there, I'm Soham! 👋
 
-## Forward Deployed Engineer | AI & Full-Stack Architect
+## AI & Full-Stack Architect
 
 I specialize in bridging the gap between complex business requirements and technical architecture. I build and deploy scalable, end-to-end AI solutions to solve operational challenges in enterprise environments.
 
