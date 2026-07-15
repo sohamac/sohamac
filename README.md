@@ -46,5 +46,5 @@ My expertise lies in **Generative AI integration**, **Big Data pipelines**, and 
 ### 📫 Connect with Me
 
 If you are looking for an engineer who doesn't just write code, but solves problems and delivers impact, let's talk.
-*   **Email:** [Your Email Here]
-*   **LinkedIn:** [Your LinkedIn URL Here]
+*   **Email:** ssohamdube@gmail.com
+*   **LinkedIn:** https://www.linkedin.com/in/soham-dube007/
