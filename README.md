@@ -38,8 +38,8 @@ My expertise lies in **Generative AI integration**, **Big Data pipelines**, and 
 
 ### 📈 GitHub Stats
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamac&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamac&layout=compact&theme=radical)
+![Soham's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sohamac&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sohamac&layout=compact&theme=radical)
 
 ---
 
