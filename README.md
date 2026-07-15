@@ -25,8 +25,10 @@ My expertise lies in **Generative AI integration**, **Big Data pipelines**, and 
 *   **Architecture:** FastAPI backend, React frontend, Dockerized for easy deployment.
 *   **Impact:** Automates complex document analysis using LLMs, providing a secure, multi-tenant ready interface for end-users to interact with their data.
 
-
-
+#### [Spark Data Dashboard](https://github.com/sohamac/spark-data-dashboard)
+**Real-time data ingestion and visualization engine.**
+*   **Architecture:** Apache Spark (PySpark), Plotly Dash, SQLite.
+*   **Impact:** Ingests live API data via resilient pipelines, processes it securely with PySpark, and visualizes real-time metrics on an interactive UI.
 #### [Stock Movement Prediction](https://github.com/sohamac/Stock-Price-Prediction)
 **Distributed ML pipeline for financial forecasting.**
 *   **Architecture:** PyTorch (LSTM), Apache Spark (Feature Engineering).
@@ -37,7 +39,7 @@ My expertise lies in **Generative AI integration**, **Big Data pipelines**, and 
 ### 📈 GitHub Stats
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamac&show_icons=true&theme=radical)
-![Top Langs](https://github.github-readme-stats.vercel.app/api/top-langs/?username=sohamac&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamac&layout=compact&theme=radical)
 
 ---
 
