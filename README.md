@@ -25,20 +25,12 @@ My expertise lies in **Generative AI integration**, **Big Data pipelines**, and 
 *   **Architecture:** FastAPI backend, React frontend, Dockerized for easy deployment.
 *   **Impact:** Automates complex document analysis using LLMs, providing a secure, multi-tenant ready interface for end-users to interact with their data.
 
-#### [Live Data Pipeline](https://github.com/sohamac/live-data-pipeline)
-**Real-time data ingestion and processing engine.**
-*   **Architecture:** Python, Apache Spark, SQLite.
-*   **Impact:** Ingests live API data, handles rate limits and messy data structures, processes it securely, and stores it for downstream analytics.
+
 
 #### [Stock Movement Prediction](https://github.com/sohamac/Stock-Price-Prediction)
 **Distributed ML pipeline for financial forecasting.**
 *   **Architecture:** PyTorch (LSTM), Apache Spark (Feature Engineering).
 *   **Impact:** Processes massive historical stock datasets using Spark and predicts price direction using an optimized 10-time-step sequence model.
-
-#### [Niti-Setu (Voice-Based Eligibility Engine)](https://github.com/sohamac/Niti-Setu)
-**Intelligent voice-to-text NLP pipeline.**
-*   **Architecture:** NLP, Speech Recognition, Python.
-*   **Impact:** Bridges the accessibility gap by allowing users to query complex government scheme eligibility using natural language voice commands.
 
 ---
 
